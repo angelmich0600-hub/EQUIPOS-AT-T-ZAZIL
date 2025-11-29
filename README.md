@@ -145,7 +145,7 @@
 <body>
 
 <h1>
-    <img src="BUSCA EL TUYO AHORA">
+    <"BUSCA EL QUE MAS TE GUSTE">
 
 </h1>
 
