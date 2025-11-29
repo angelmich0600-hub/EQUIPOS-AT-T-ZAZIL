@@ -1,4 +1,4 @@
-BUSAC EL TUYO 
+BUSCA EL TUYO 
 
 <!DOCTYPE html>
 <html lang="es">
