@@ -1,6 +1,6 @@
-BUSCA EL TUYO 
 
-<!DOCTYPE html>
+
+
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -145,7 +145,7 @@ BUSCA EL TUYO
 <body>
 
 <h1>
-    <img src="https://www.pngplay.com/wp-content/uploads/3/Black-ATandT-Logo-PNG-HD-Quality.png" style="width:250px; vertical-align:middle;">
+    <img src="BUSCA EL TUYO AHORA">
 
 </h1>
 
